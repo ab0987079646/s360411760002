@@ -8,7 +8,7 @@ public class mycode {
     System.out.println("thaweesak ratsadorn");
     System.out.println("Mtt421 ");
     System.out.println("s360411760002");
-
+    System.out.println("jj");
 
 
 
@@ -16,7 +16,6 @@ public class mycode {
 
 
 }//class
-
 
 
 
