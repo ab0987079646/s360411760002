@@ -26,7 +26,9 @@ public class ex6 {
   //  StringTokenizer
       StringTokenizer strTok = new   StringTokenizer ("T an at RUTS");
       System.out.println("Word count in message = "+ strTok.countTokens());
-      while (strTok.hasMoreElements());
+      while (strTok.hasMoreTokens()){
+          System.out.println(strTok.nextToken());
+      }
 
 
 
