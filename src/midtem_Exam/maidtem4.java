@@ -1,11 +1,6 @@
-package lab3;
-
-
-
-
+package midtem_Exam;
 import java.util.Scanner;
-
-public class Quiz2 {
+public class maidtem4 {
     public static void main(String[] args) {
         System.out.println("####### Please select product type #######");
         Scanner input = new Scanner(System.in);
@@ -48,43 +43,7 @@ public class Quiz2 {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }//main
-
+    }
 
 
 
